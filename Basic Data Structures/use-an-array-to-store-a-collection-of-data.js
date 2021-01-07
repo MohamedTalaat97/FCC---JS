@@ -1,0 +1,1 @@
+let yourArray = [5, 'medo' , true , 6,7]; // Change this line
